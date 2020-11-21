@@ -1,0 +1,87 @@
+
+.title{
+    color:#543c52;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#f2edff;
+    font-size: 20px;
+  }
+
+  .legend{
+    font-size: 25px;
+    color: #322a3b;
+
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    margin-top: 2px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color:#543c4b;
+    color: white;
+  }
+    .button {
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 14px;
+        margin: 4px 2px;
+        cursor: pointer;
+        background-color: #543c4b;
+      }
+  .border{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin:15px;
+    margin-left: 50px;
+    display: inline;
+
+  }   
+  input[type=text],[type=email],[type=number],[type=date],select,textarea{
+    width: 50%;
+    padding: 6px 10px;
+    margin: 8px 0px;
+    box-sizing: border-box;
+    font-size: 16px;
+
+} 
+fieldset{
+    margin: 30px;
+}
+  
+
+ footer{
+    color:#543c4b;
+    margin: 20px;
+
+ }   
+ 
+
+
+
+  
