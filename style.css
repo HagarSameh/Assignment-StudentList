@@ -1,4 +1,3 @@
-
 .title{
     color:#543c52;
     text-transform: uppercase;
@@ -24,7 +23,7 @@ body {
     background-color: #333;
     margin-top: 2px;
   }
-  
+
   .topnav a {
     float: left;
     color: #f2f2f2;
@@ -33,16 +32,17 @@ body {
     text-decoration: none;
     font-size: 17px;
   }
-  
+
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
-  
+
   .topnav a.active {
     background-color:#543c4b;
     color: white;
   }
+
     .button {
         border: none;
         color: white;
@@ -73,15 +73,27 @@ body {
 fieldset{
     margin: 30px;
 }
-  
+table{
+    border-collapse: collapse ;
+    background-color: #d6d2c4;
+    width: 100%;
+}
+thead{
+    background-color: #968c83;
+}
+thead tr{
+    color: #f2f2f2;
+}
+tbody{
+    color:#34626c ;
+}
+tbody tr:nth-child(even){
+    background-color:#fff5ea;
+}
+
 
  footer{
     color:#543c4b;
     margin: 20px;
 
  }   
- 
-
-
-
-  
